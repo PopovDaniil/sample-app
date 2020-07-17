@@ -10,6 +10,7 @@ gem 'jbuilder'
 gem 'sdoc', group: :doc
 gem 'webpacker'
 gem 'bootsnap'
+gem 'guard'
 
 group :development, :test do
   gem 'sqlite3'
