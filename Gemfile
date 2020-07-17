@@ -9,6 +9,7 @@ gem 'turbolinks'
 gem 'jbuilder'
 gem 'sdoc', group: :doc
 gem 'webpacker'
+gem 'bootsnap'
 
 group :development, :test do
   gem 'sqlite3'
