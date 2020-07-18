@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails'
+gem 'bootstrap-sass'
 gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
@@ -17,6 +18,7 @@ group :development, :test do
   gem 'byebug'
   gem 'spring'
   gem 'listen'
+  gem 'rails-controller-testing'
 end
 group :development do
   gem 'web-console'
