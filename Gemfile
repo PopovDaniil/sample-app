@@ -12,6 +12,7 @@ gem 'sdoc', group: :doc
 gem 'webpacker'
 gem 'bootsnap'
 gem 'guard'
+gem 'bcrypt'
 
 group :development, :test do
   gem 'sqlite3'
